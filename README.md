@@ -1,16 +1,30 @@
-## Hi there 👋
+# Marino Ezer Pozo Pérez
 
-<!--
-**MarinoEzerPozoPerez/MarinoEzerPozoPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Freelance Interpreter · AI Training · Technology
 
-Here are some ideas to get you started:
+> Connecting people, language, and technology for a more accessible digital future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+
+Freelance interpreter with a professional focus on clear, culturally aware communication. I am developing my career toward **AI Training**, while continuing to work at the intersection of language services and technology.
+
+I am interested in international opportunities where human communication, multilingual perspectives, and thoughtful technology can help create useful and accessible digital experiences.
+
+## Focus areas
+
+- **Freelance interpretation**
+- **AI Training**
+- **Multilingual communication**
+- **Technology-enabled digital projects**
+
+## Professional direction
+
+Open to international opportunities and collaborations related to interpretation, AI training, language-focused work, and technology.
+
+---
+
+## Perfil
+
+Intérprete freelance con orientación profesional hacia el **AI Training**, la comunicación multilingüe y la tecnología.
+
+Busco oportunidades y colaboraciones internacionales en las que el lenguaje, la comunicación intercultural y la tecnología contribuyan a crear experiencias digitales útiles y accesibles.
